@@ -1,0 +1,20 @@
+{
+  "name": "GROWLY — Personal Growth & Habit Companion",
+  "short_name": "GROWLY",
+  "description": "Gentle consistency, smart time-based alerts, healthy weight gain, adaptive routines, and zero-penalty recovery.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F1613",
+  "theme_color": "#23533E",
+  "categories": ["lifestyle", "health", "productivity"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
